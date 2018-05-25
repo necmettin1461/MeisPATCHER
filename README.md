@@ -1,7 +1,4 @@
-# Meissmartboardtray-Hacking-Tool
-Basic Meissmartboardtray hacking tool
-
-Tethered method
-
-This tool is cmd based
-
+#MeisPATCHER
+Meissmartboardtray.exe programını durdurmak için bir araç.Cmd tabanlıďır taskkill komudunu kullanır.
+www.mebre.com.tr 
+No english support!
